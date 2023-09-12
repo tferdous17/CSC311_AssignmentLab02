@@ -6,7 +6,7 @@ import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 
-public class HelloController {
+public class Lab2Controller {
     // FXML fields such as buttons and text fields
     @FXML
     public Button calculateBtn;

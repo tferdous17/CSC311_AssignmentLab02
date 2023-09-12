@@ -9,7 +9,7 @@
 <?import javafx.scene.layout.VBox?>
 
 
-<TitledPane text="Loan Calculator" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.csc311_lab02.HelloController">
+<TitledPane text="Loan Calculator" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.csc311_lab02.Lab2Controller">
    <content>
       <VBox alignment="CENTER" prefHeight="271.0" prefWidth="460.0" spacing="20.0">
           <padding>
